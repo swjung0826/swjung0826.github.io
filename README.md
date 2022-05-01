@@ -1,15 +1,21 @@
-## Welcome to GitHub Pages
+## github.io 블로그 첫 글
 
-You can use the [editor on GitHub](https://github.com/swjung0826/swjung0826.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+github.io 블로그 첫 글 작성해봅니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+,,,markdown
+**categories**:
+  - Blog
 
-### Markdown
+**tags**:
+  - Blog
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**last_modified_at**: 
+  - 2019-04-13T08:06:00-05:00
+,,,
 
-```markdown
-Syntax highlighted code block
+title | excerpt | categories | tags | last_modified_at
+-------|:----------:|:---------:|:------:|------------:
+github.io 블로그 첫 글|github.io 블로그 첫 글 작성합니다|Blog|Blog|2019-04-13T08:06:00-05:00
 
 # Header 1
 ## Header 2
